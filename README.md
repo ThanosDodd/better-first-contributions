@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Better First Contributions
 
 Learn how to contribute to Open Source without the fear of failure.
@@ -141,9 +140,3 @@ Want to know more about this project? Watch the YouTube video!
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!<br>
 Want a biscuit?
-=======
-# better-first-contributions
-Learn how to contribute to Open Source without the fear of failure
-
-Test 2 changes
->>>>>>> 455a663a4c0ce6cdb7bd7536d6e337a965fe56b1
