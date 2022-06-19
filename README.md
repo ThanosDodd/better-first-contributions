@@ -132,7 +132,7 @@ Now submit the pull request.
 ## Merge your pull request NOW on our website!
 
 Visit [our website](https://www.betterfirstcontributions.com/), login using your github account and merge the request right away!<br>
-Want to know more about this project? Watch the YouTube video!
+Want to know more about this project? Watch the YouTube video!(coming soon)
 
 ---
 
