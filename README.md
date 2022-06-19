@@ -1,18 +1,19 @@
 # Better First Contributions
 
-Learn how to contribute to Open Source without the fear of failure.
+Learn how to contribute to Open Source without the fear of failure - like elsewhere you may have tried.
 
-This project aims to simplify and guide the way beginners make their first contribution even more than previously thought possible.<br>
+This project aims to simplify and guide the way beginners make their first contribution even more than previously thought possible.
+
 If you are looking to make your first contribution, follow the steps below.
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/)
 
 ---
 
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+This will create a copy of this repository in your account
 
 <img src="https://www.betterfirstcontributions.com/fork.png" alt="fork this repository" />
 
@@ -20,7 +21,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon
 
 <img  src="https://www.betterfirstcontributions.com/clone.png" alt="copy URL to clipboard" />
 
@@ -43,7 +44,7 @@ git clone https://github.com/<your-username>/better-first-contributions.git
 Open a terminal in or navigate to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd better-first-contributions
 ```
 
 Now create a branch using the `git checkout` command:
@@ -58,22 +59,22 @@ For example:
 git checkout -b add-gin-tonic
 ```
 
-The name of the branch does not need to have the word _add_ in it, but it's good practice in making the comments more readable for other developers
+The name of the branch does not need to have the word _add_ in it, but it's good practice to make comments more readable for other developers
 
 ---
 
 ## Create you file and commit changes
 
-Now open `/Your Files My Children/` folder in a code editor, and create a new file, with the extension of your choice.
+Now open `/Your Files My Children/` folder in a code editor, and create a new file inside it, with the extension of your choice.
 
 ---
 
 ## !!! New File Requirements !!!
 
-- The file must be named exactly the same as your username! This is to ensure there is only one merge per GitHub user <br>
+- The file must be named exactly the same as your username!!! This is to ensure there is only one merge per GitHub user <br>
   Example: If your username is Solo, your file can be called Solo.ts or Solo.py etc.
-- Just create this file and make no other changes. Your pull request will not be accepted if you make more than one changes
-- The file must be empty! Don't write anything in the file
+- Create a file and make no other changes. Your pull request will not be accepted if you make more than one changes
+- The file must be empty! Don't write anything at all in the file
 
 ---
 
