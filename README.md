@@ -9,20 +9,20 @@ If you are looking to make your first contribution, follow the steps below.
 
 ---
 
-<img align="right" width="300" src="https://www.betterfirstcontributions.com/fork.png" alt="fork this repository" />
-
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
----
+<img src="https://www.betterfirstcontributions.com/fork.png" alt="fork this repository" />
 
-<img align="right" width="300" src="https://www.betterfirstcontributions.com/clone.png" alt="copy URL to clipboard" />
+---
 
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+
+<img  src="https://www.betterfirstcontributions.com/clone.png" alt="copy URL to clipboard" />
 
 Open a terminal and run the following git command - without the brackets:
 
