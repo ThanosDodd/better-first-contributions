@@ -15,7 +15,7 @@ If you are looking to make your first contribution, follow the steps below.
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account
 
-<img src="https://www.betterfirstcontributions.com/fork.png" alt="fork this repository" />
+<img src="https://first-contributions-better.vercel.app/fork.png" alt="fork this repository" />
 
 ---
 
@@ -23,7 +23,7 @@ This will create a copy of this repository in your account
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon
 
-<img  src="https://www.betterfirstcontributions.com/clone.png" alt="copy URL to clipboard" />
+<img  src="https://first-contributions-better.vercel.app/clone.png" alt="copy URL to clipboard" />
 
 Open a terminal and run the following git command - without the brackets:
 
@@ -122,17 +122,17 @@ replacing `<your-branch-name>` with the name of the branch you created earlier. 
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img  src="https://www.betterfirstcontributions.com/compPull.png" alt="create a pull request" />
+<img  src="https://first-contributions-better.vercel.app/compPull.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img  src="https://www.betterfirstcontributions.com/createPR.png" alt="submit pull request" />
+<img  src="https://first-contributions-better.vercel.app/createPR.png" alt="submit pull request" />
 
 ---
 
 ## Merge your pull request NOW on our website!
 
-Visit [our website](https://www.betterfirstcontributions.com/), login using your github account and merge the request right away!<br>
+Visit [our website](https://first-contributions-better.vercel.app/), login using your github account and merge the request right away!<br>
 Want to know more about this project? Watch the [YouTube video!](https://youtu.be/sn7iKWbn5m8)
 
 ---
